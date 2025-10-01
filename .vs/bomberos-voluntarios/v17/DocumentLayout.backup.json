@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormTareasAutomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\FormTareasAutomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInstitucionAutomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\FormInstitucionAutomo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInstitucionAutomo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\FormInstitucionAutomo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\FormInicioOPPs.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\FormInicioOPPs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\FormInicioOPPs.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormAcceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoBomberos2\\FormAcceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +47,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoBomberos2\\Program.cs",
+              "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\Program.cs",
+              "RelativeToolTip": "ProyectoBomberos2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:49:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTareasAutomo.cs",
+              "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormTareasAutomo.cs",
+              "RelativeDocumentMoniker": "ProyectoBomberos2\\FormTareasAutomo.cs",
+              "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormTareasAutomo.cs",
+              "RelativeToolTip": "ProyectoBomberos2\\FormTareasAutomo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:48:48.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormInstitucionAutomo.cs",
+              "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInstitucionAutomo.cs",
+              "RelativeDocumentMoniker": "ProyectoBomberos2\\FormInstitucionAutomo.cs",
+              "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInstitucionAutomo.cs",
+              "RelativeToolTip": "ProyectoBomberos2\\FormInstitucionAutomo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:48:37.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormInstitucionAutomo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInstitucionAutomo.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoBomberos2\\FormInstitucionAutomo.Designer.cs",
+              "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInstitucionAutomo.Designer.cs",
+              "RelativeToolTip": "ProyectoBomberos2\\FormInstitucionAutomo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:48:36.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormInicioOPPs.resx",
+              "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.resx",
+              "RelativeDocumentMoniker": "ProyectoBomberos2\\FormInicioOPPs.resx",
+              "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.resx",
+              "RelativeToolTip": "ProyectoBomberos2\\FormInicioOPPs.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-01T05:48:31.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormInicioOPPs.cs",
+              "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.cs",
+              "RelativeDocumentMoniker": "ProyectoBomberos2\\FormInicioOPPs.cs",
+              "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.cs",
+              "RelativeToolTip": "ProyectoBomberos2\\FormInicioOPPs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:48:29.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormInicioOPPs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoBomberos2\\FormInicioOPPs.Designer.cs",
+              "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormInicioOPPs.Designer.cs",
+              "RelativeToolTip": "ProyectoBomberos2\\FormInicioOPPs.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T05:48:27.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "FormAcceso.cs",
               "DocumentMoniker": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormAcceso.cs",
               "RelativeDocumentMoniker": "ProyectoBomberos2\\FormAcceso.cs",
               "ToolTip": "C:\\Users\\Elianita\\Forms\\ProyectoBomberos2\\bomberos-voluntarios\\ProyectoBomberos2\\FormAcceso.cs",
               "RelativeToolTip": "ProyectoBomberos2\\FormAcceso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T00:02:49.202Z",
               "EditorCaption": ""
